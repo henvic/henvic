@@ -1,5 +1,6 @@
 Some posts I've written:
 
+* [Back to basics: Writing an application using Go and PostgreSQL](https://henvic.dev/posts/go-postgres/)
 * [The ecosystem of the Go programming language](https://henvic.dev/posts/go)
 * [My Go mistakes](https://henvic.dev/posts/my-go-mistakes/)
 * [Environment variables, config, secrets, and globals](https://henvic.dev/posts/env/)
